@@ -1,0 +1,10 @@
+asgiref
+python-decouple
+django
+django-taggit
+markdown
+psycopg2
+psycopg2_binary
+sqlparse
+
+tzdata

@@ -1,0 +1,1096 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2022-10-28T04:00:02.865Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Escribir desde los cimientos",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2022-10-28T04:00:41.578Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "El arte de contar bien una historia",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2022-10-28T04:01:17.614Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Escribir bien",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2022-10-28T04:01:54.037Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "El camino a la publicación",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2022-10-28T04:02:27.811Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Zen en el arte de escribir",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2022-10-28T04:03:13.037Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Un cuarto propio",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2022-10-28T04:03:47.411Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Una cierta idea del mundo",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2022-10-28T04:04:19.251Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Escribir en 21 días",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2022-10-28T04:05:01.390Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "El árbol de la lengua",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2022-10-28T04:05:39.982Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "El pequeño libro del lenguaje",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2022-10-28T04:06:18.249Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "11",
+    "object_repr": "El profesor don padrino contra los titis",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2022-10-28T04:06:52.432Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "12",
+    "object_repr": "Borges profesor",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2022-10-28T04:07:35.022Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "13",
+    "object_repr": "La mujer invisible",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2022-10-28T15:48:51.171Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "4",
+    "object_repr": "Libro",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2022-10-28T15:49:19.310Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Escribir desde los cimientos",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2022-10-28T15:49:28.772Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Escribir bien",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2022-10-28T16:10:02.506Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "El arte de contar bien una historia",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2022-10-28T16:10:56.410Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Escribir bien",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2022-10-28T16:11:07.993Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Zen en el arte de escribir",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2022-10-28T17:49:24.733Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "14",
+    "object_repr": "markdown post",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2022-10-28T18:14:17.664Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "localhost:8000",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add post",
+    "content_type": 7,
+    "codename": "add_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change post",
+    "content_type": 7,
+    "codename": "change_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete post",
+    "content_type": 7,
+    "codename": "delete_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view post",
+    "content_type": 7,
+    "codename": "view_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add comment",
+    "content_type": 8,
+    "codename": "add_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change comment",
+    "content_type": 8,
+    "codename": "change_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete comment",
+    "content_type": 8,
+    "codename": "delete_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view comment",
+    "content_type": 8,
+    "codename": "view_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add tag",
+    "content_type": 9,
+    "codename": "add_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change tag",
+    "content_type": 9,
+    "codename": "change_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete tag",
+    "content_type": 9,
+    "codename": "delete_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view tag",
+    "content_type": 9,
+    "codename": "view_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add tagged item",
+    "content_type": 10,
+    "codename": "add_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change tagged item",
+    "content_type": 10,
+    "codename": "change_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete tagged item",
+    "content_type": 10,
+    "codename": "delete_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view tagged item",
+    "content_type": 10,
+    "codename": "view_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add site",
+    "content_type": 11,
+    "codename": "add_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change site",
+    "content_type": 11,
+    "codename": "change_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete site",
+    "content_type": 11,
+    "codename": "delete_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view site",
+    "content_type": 11,
+    "codename": "view_site"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$oaTG29kOWIE7lIyZh44ygG$B0AVbIx9XWuUJUEWFdxLuipFfvJsbasKm+z/xN+zPS8=",
+    "last_login": "2022-10-28T03:56:47.911Z",
+    "is_superuser": true,
+    "username": "pablo",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2022-10-28T03:56:24.215Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "blog",
+    "model": "post"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "blog",
+    "model": "comment"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "taggit",
+    "model": "tag"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "taggit",
+    "model": "taggeditem"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "sites",
+    "model": "site"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "hml6pgt0m201uvoebqa01h78x4s7tptc",
+  "fields": {
+    "session_data": ".eJxVjMEOgjAQRP-lZ9O0he5Sj975BtJudwU1JaFwMv67kHDQ48x7M281xG0dh63yMkxZXZVVl98uRXpyOUB-xHKfNc1lXaakD0WftOp-zvy6ne7fwRjruK99wAYoMEjrMgkiAbARw2hSQ-ybDkAcYAi5c2Kz30O0vnUGRYBYfb7d_DfJ:1ooGUB:rmaNqHKt_6-VKTvAQxcoB44T-7IvjKWOh4HYwK343ow",
+    "expire_date": "2022-11-11T03:56:47.919Z"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 1,
+  "fields": {
+    "name": "music",
+    "slug": "music"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 2,
+  "fields": {
+    "name": "django",
+    "slug": "django"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 3,
+  "fields": {
+    "name": "jazz",
+    "slug": "jazz"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 4,
+  "fields": {
+    "name": "Libro",
+    "slug": "Libro"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 5,
+  "fields": {
+    "name": "markdown",
+    "slug": "markdown"
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 1,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 3,
+  "fields": {
+    "tag": 3,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 5,
+  "fields": {
+    "tag": 3,
+    "content_type": 7,
+    "object_id": 2
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 6,
+  "fields": {
+    "tag": 3,
+    "content_type": 7,
+    "object_id": 3
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 7,
+  "fields": {
+    "tag": 3,
+    "content_type": 7,
+    "object_id": 5
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 8,
+  "fields": {
+    "tag": 5,
+    "content_type": 7,
+    "object_id": 14
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 1,
+  "fields": {
+    "title": "Escribir desde los cimientos",
+    "slug": "escribir-desde-los-cimientos",
+    "author": 1,
+    "body": "Alicia Pérez Gil presenta un manual de escritura diferente. No solo explica los seis elementos que conforman una novela, sino que incluye seis relatos y desentraña por qué funcionan. En mi opinión, es muy útil si eres principiante, pues, como indica el título, se centra en cómo construir los cimientos de una historia, pero también si llevas algo de camino hecho en este mundo de las letras y necesitas asentar conceptos. Y como muestra, estas frases reveladoras que recopilé en el artículo Lo que aprendí de Escribir desde los cimientos.",
+    "publish": "2022-10-28T03:59:21Z",
+    "created": "2022-10-28T04:00:02.865Z",
+    "updated": "2022-10-28T15:49:19.294Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 2,
+  "fields": {
+    "title": "El arte de contar bien una historia",
+    "slug": "el-arte-de-contar-bien-una-historia",
+    "author": 1,
+    "body": "Las estrategias en este libro se dividen en tres bloques: cómo estructurar una historia, cómo generar recursos poéticos o humorísticos y cómo captar la atención del público. Aunque se centra en la narración oral, sus consejos también se aplican a la escritura. Su autor, Héctor Urién, me habló sobre ello en esta entrevista. Debido a la brevedad de las explicaciones,  no te lo recomiendo este libro si eres principiante. Es más adecuado si quieres reflexionar sobre lo que sabes o sobre lo que aún no dominas.",
+    "publish": "2022-10-28T04:00:02Z",
+    "created": "2022-10-28T04:00:41.578Z",
+    "updated": "2022-10-28T16:10:02.489Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 3,
+  "fields": {
+    "title": "Escribir bien",
+    "slug": "escribir-bien",
+    "author": 1,
+    "body": "Escribir bien es una lectura imprescindible si quieres ser escritor de verdad. No son consejos para aprender a escribir, tampoco la receta mágica para ser un superventas, solo una reflexión honesta sobre lo difícil que es crear algo que merezca la pena. Una de mis mejores lecturas de este año. En la segunda parte, Escribir mejor, se suman consejos prácticos (y realistas) para escribir más a diario. Estos dos libros me gustaron tanto que hice esta selección de verdades incómodas.",
+    "publish": "2022-10-28T04:00:41Z",
+    "created": "2022-10-28T04:01:17.614Z",
+    "updated": "2022-10-28T16:10:56.394Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 4,
+  "fields": {
+    "title": "El camino a la publicación",
+    "slug": "el-camino-a-la-publicacion",
+    "author": 1,
+    "body": "Excelente recopilación de las preocupaciones más habituales, sobre todo si estás pensando en cómo promocionar tu libro cuando ni siquiera has puesto punto final al borrador. María Antonia de Miquel da un buen baño de realidad a los que tienen la cabeza llena de sueños, pero también las herramientas necesarias para que sepan alcanzar sus metas de manera realista. Te ahorrará muchas decepciones y te darás cuenta de que acabar el borrador solo es el comienzo de un arduo trabajo.",
+    "publish": "2022-10-28T04:01:17Z",
+    "created": "2022-10-28T04:01:54.031Z",
+    "updated": "2022-10-28T04:01:54.031Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 5,
+  "fields": {
+    "title": "Zen en el arte de escribir",
+    "slug": "zen-en-el-arte-de-escribir",
+    "author": 1,
+    "body": "Y si hablamos de libros de escritura, no puede faltar este, del maestro Ray Bradbury. Te habla de su proceso creativo, de cómo escribió muchos de sus cuentos y novelas y, sobre todo, contagia su amor por la literatura. Se centra en cómo escribir de verdad, y no en cómo vender más o epatar a los críticos. Me pareció un libro tan inspirador que también hice mi particular selección de mejores frases en el artículo Cómo encontrar Las musas, según Ray Bradbury en Zen en el arte de escribir.",
+    "publish": "2022-10-28T04:01:54Z",
+    "created": "2022-10-28T04:02:27.811Z",
+    "updated": "2022-10-28T16:11:07.985Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 6,
+  "fields": {
+    "title": "Un cuarto propio",
+    "slug": "un-cuarto-propio",
+    "author": 1,
+    "body": "Otro clásico indiscutible de libros sobre escritura (y de libros feministas) es este de Virginia Woolf. Según ella, para escribir novelas, había que tener dinero y un cuarto propio, dos requisitos que rara vez cumplían las mujeres. Estas reflexiones, que escribió hace casi cien años, no han perdido vigencia.  No sé si eso dice mucho a favor del análisis de Virginia Wolf o muy poco de la evolución de nuestra sociedad.",
+    "publish": "2022-10-28T04:02:27Z",
+    "created": "2022-10-28T04:03:13.029Z",
+    "updated": "2022-10-28T04:03:13.029Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 7,
+  "fields": {
+    "title": "Una cierta idea del mundo",
+    "slug": "una-cierta-idea-del-mundo",
+    "author": 1,
+    "body": "En esta recopilación de artículos, Alessandro Baricco habla de los cincuenta mejores libros que ha leído en la última década. Con esta excusa, reflexiona sobre la lectura, la escritura y la vida para darnos su idea de mundo. Porque, como explica en el prólogo, para saber lo que alguien piensa, simplemente hay que dejarlo hablar de lo que conoce y ama de verdad, y en su caso son los libros. Si te gusta Baricco tanto como a mí, no te lo pierdas.",
+    "publish": "2022-10-28T04:03:13Z",
+    "created": "2022-10-28T04:03:47.411Z",
+    "updated": "2022-10-28T04:03:47.411Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 8,
+  "fields": {
+    "title": "Escribir en 21 días",
+    "slug": "escribir-en-21-dias",
+    "author": 1,
+    "body": "Y no hay mejor forma de acabar el apartado de reseñas de libros sobre escritura que recomendando este de Silvia Adela Kohan, una combinación perfecta de teoría y práctica. Además de un método para despertar la creatividad y el autoconocimiento, repasa conceptos básicos de la literatura (tono, descripciones, tema, personajes, conflicto…). Muy útil si no sabes por dónde empezar a escribir, si te bloqueas con frecuencia, no has encontrado tu voz o solo deseas enfrentarte a tus fantasmas.",
+    "publish": "2022-10-28T04:03:47Z",
+    "created": "2022-10-28T04:04:19.251Z",
+    "updated": "2022-10-28T04:04:19.251Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 9,
+  "fields": {
+    "title": "El árbol de la lengua",
+    "slug": "el-arbol-de-la-lengua",
+    "author": 1,
+    "body": "Si te gusta saber el porqué de las palabras, su evolución a través de los siglos y demás curiosidades sobre nuestra lengua, este libro te encantará. Demuestra que detrás de cualquier error o connotación negativa de las palabras siempre hay una historia y que el límite para la lengua no está en el diccionario sino en nosotros. Una forma muy divertida de conocer las raíces de nuestra lengua para valorarla y hacerla crecer.",
+    "publish": "2022-10-28T04:04:19Z",
+    "created": "2022-10-28T04:05:01.382Z",
+    "updated": "2022-10-28T04:05:01.382Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 10,
+  "fields": {
+    "title": "El pequeño libro del lenguaje",
+    "slug": "el-pequeno-libro-del-lenguaje",
+    "author": 1,
+    "body": "Este libro tiene bastantes similitudes con el anterior, pero el autor es estadounidense y habla del lenguaje en general. Dedica capítulos al tono, a los acentos, a los dialectos, a la corrección política y a los múltiples aspectos que conforman el lenguaje (fonética, gramática, semántica, sociolingüística, psicolingüística, lingüística histórica…) para poner de relieve su importancia y su utilidad. Está contado con humor y se dirige a los jóvenes, pero lo disfrutarás igual si eres un curioso de la lengua.",
+    "publish": "2022-10-28T04:05:01Z",
+    "created": "2022-10-28T04:05:39.974Z",
+    "updated": "2022-10-28T04:05:39.974Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 11,
+  "fields": {
+    "title": "El profesor don padrino contra los titis",
+    "slug": "el-profesor-don-padrino-contra-los-titis",
+    "author": 1,
+    "body": "Don Pardino, uno de los grandes influencers ortográficos, presenta esta aventura para que los niños (y no tan niños) aprendan ortografía de forma divertida. Con guiños a los tebeos de siempre como Mortadelo y Filemón, habla de las mayúsculas, las tildes, el quesuismo, los signos de exclamación e interrogación, las comas del vocativo, la escritura correcta de los símbolos de medida y otras normas básicas.",
+    "publish": "2022-10-28T04:05:40Z",
+    "created": "2022-10-28T04:06:18.249Z",
+    "updated": "2022-10-28T04:06:18.249Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 12,
+  "fields": {
+    "title": "Borges profesor",
+    "slug": "borges-profesor",
+    "author": 1,
+    "body": "Gracias a las transcripciones del curso de literatura inglesa que impartió Borges en 1966, puedes sentirte un alumno más de este gran maestro. Te darás cuenta de que sus clases no eran ortodoxas. En vez de explicar el temario, relataba el carácter de los autores, hacía comentarios irónicos al criticar las obras o daba lecciones de historia para exponer cómo y por qué se han ido modificando la lengua y los recursos literarios.",
+    "publish": "2022-10-28T04:06:18Z",
+    "created": "2022-10-28T04:06:52.428Z",
+    "updated": "2022-10-28T04:06:52.428Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 13,
+  "fields": {
+    "title": "La mujer invisible",
+    "slug": "la-mujer-invisible",
+    "author": 1,
+    "body": "Esta fue una de mis primeras lecturas de 2020 y aún la tengo muy presente. Se trata de un repaso exhaustivo a cómo las necesidades cotidianas y singularidades del cuerpo de las mujeres se obvian a la hora de diseñar espacios, tecnología, sistema sanitario, etc., por un sesgo en los datos que se toman como neutros. Una forma de darnos cuenta de nuestros prejuicios para corregirlos. No me cansaré de recomendarlo.",
+    "publish": "2022-10-28T04:06:52Z",
+    "created": "2022-10-28T04:07:35.014Z",
+    "updated": "2022-10-28T04:07:35.014Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 14,
+  "fields": {
+    "title": "markdown post",
+    "slug": "markdown-post",
+    "author": 1,
+    "body": "This is a post formatted with markdown\r\n--------------------------------------\r\n*This is emphasized* and **this is more emphasized**.\r\nHere is a list:\r\n* One\r\n* Two\r\n* Three\r\nAnd a [link to the Django website](https://www.djangoproject.com/).",
+    "publish": "2022-10-28T17:48:13Z",
+    "created": "2022-10-28T17:49:24.727Z",
+    "updated": "2022-10-28T17:49:24.727Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 1,
+  "fields": {
+    "post": 8,
+    "name": "Pablo",
+    "email": "citocianina@gmail.com",
+    "body": "hhsdhksdgh",
+    "created": "2022-10-31T19:32:57.724Z",
+    "updated": "2022-10-31T19:32:57.724Z",
+    "active": true
+  }
+},
+{
+  "model": "sites.site",
+  "pk": 1,
+  "fields": {
+    "domain": "localhost:8000",
+    "name": "localhost:8000"
+  }
+}
+]
