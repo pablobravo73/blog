@@ -11,7 +11,7 @@ https://docs.djangoproject.com/en/4.1/ref/settings/
 """
 
 from pathlib import Path
-from decouple import config
+from decouple import config, Csv
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -24,10 +24,14 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = config('SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = config('DEBUG', default=False, cast=bool)
+DEBUG = config('DEBUG', cast=bool)
 
-ALLOWED_HOSTS = []
 
+ALLOWED_HOSTS= config('DJANGO_ALLOWED_HOSTS', cast=Csv(), default='*')
+
+CORS_ALLOW_ALL_ORIGINS = config('CORS_ALLOW_ALL_ORIGINS', default=False, cast=bool)
+
+CORS_ALLOWED_ORIGINS = config('CORS_ALLOWED_ORIGINS', cast=Csv(), default='')
 
 # Application definition
 
@@ -95,6 +99,17 @@ DATABASES = {
         'PORT': PG_PORT,
     }
 }
+
+DATABASE_URL = config('DATABASE_URL', default='')
+
+if DATABASE_URL:
+    from urllib.parse import urlparse
+    url_parsed = urlparse(DATABASE_URL)
+    DATABASES['default']['NAME'] = url_parsed.path[1:]
+    DATABASES['default']['USER'] = url_parsed.username
+    DATABASES['default']['PASSWORD'] = url_parsed.password
+    DATABASES['default']['HOST'] = url_parsed.hostname
+    DATABASES['default']['PORT'] = url_parsed.port
 
 
 

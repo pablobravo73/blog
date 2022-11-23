@@ -1,0 +1,33 @@
+version: '3.9'
+
+services:
+  backend-dev:
+    image: blogteam
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    volumes:
+      - .:/home/appuser/app/blog
+    environment:
+      - PORT=8000
+    env_file:
+      - .env
+    ports:
+      - 8000:8000
+    stdin_open: true
+
+  db:
+    image: postgres
+    restart: unless-stopped
+    ports:
+      - 5435:5432
+    environment:
+      - POSTGRES_NAME=postgres
+      - POSTGRES_USER=pablo
+      - POSTGRES_PASSWORD=pabloTest
+      - POSTGRES_HOST=db
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+volumes:
+  pgdata:
