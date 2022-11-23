@@ -6,5 +6,5 @@ markdown
 psycopg2
 psycopg2_binary
 sqlparse
-
 tzdata
+gunicorn
