@@ -83,6 +83,8 @@ WSGI_APPLICATION = 'myproject.wsgi.application'
 # https://docs.djangoproject.com/en/4.1/ref/settings/#databases
 
 
+
+
 PG_DB = config('POSTGRES_DB', default='')
 PG_USER = config('POSTGRES_USER', default='')
 PG_PASSWD = config('POSTGRES_PASSWORD', default='')
@@ -91,7 +93,7 @@ PG_PORT = config('POSTGRES_PORT', cast=int, default=5432)
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': PG_DB,
         'USER': PG_USER,
         'PASSWORD': PG_PASSWD,
@@ -100,16 +102,16 @@ DATABASES = {
     }
 }
 
-DATABASE_URL = config('DATABASE_URL', default='')
+# DATABASE_URL = config('DATABASE_URL', default='')
 
-if DATABASE_URL:
-    from urllib.parse import urlparse
-    url_parsed = urlparse(DATABASE_URL)
-    DATABASES['default']['NAME'] = url_parsed.path[1:]
-    DATABASES['default']['USER'] = url_parsed.username
-    DATABASES['default']['PASSWORD'] = url_parsed.password
-    DATABASES['default']['HOST'] = url_parsed.hostname
-    DATABASES['default']['PORT'] = url_parsed.port
+# if DATABASE_URL:
+#     from urllib.parse import urlparse
+#     url_parsed = urlparse(DATABASE_URL)
+#     DATABASES['default']['NAME'] = url_parsed.path[1:]
+#     DATABASES['default']['USER'] = url_parsed.username
+#     DATABASES['default']['PASSWORD'] = url_parsed.password
+#     DATABASES['default']['HOST'] = url_parsed.hostname
+#     DATABASES['default']['PORT'] = url_parsed.port
 
 
 
